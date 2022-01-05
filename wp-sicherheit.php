@@ -11,6 +11,6 @@ Author URI: https://github.com/W2AlharbiMe/wp-sicherheit
 // NOTE: `sh_` is the prefix of this plugin
 
 
-require_once 'disable-pingback.php';
-require_once 'disable-html-head-tags.php';
-require_once 'disable-shortlinks.php';
+require_once 'src/disable-pingback.php';
+require_once 'src/disable-html-head-tags.php';
+require_once 'src/disable-shortlinks.php';
