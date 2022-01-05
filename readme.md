@@ -5,7 +5,7 @@
 ### What does it include?
 
 - Disable Shortlinks
-- Disable Pingback tag
+- Disable Pingback html tag
 - Disable wp head:
 
 ```
